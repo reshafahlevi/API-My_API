@@ -47,7 +47,7 @@ namespace My_API.Services
 			}
 		}
 
-		public async Task<HistorySignIn> AddData_HistorySignIn(Login Payload)
+		public async Task<HistorySignIn> AddData_HistorySignIn(Login Payload) 
 		{
 			try
 			{
